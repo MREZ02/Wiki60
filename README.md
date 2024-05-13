@@ -18,7 +18,7 @@
           <br>
            <br>
         <div style="display:flex; justify-content: space-around"> 
-            <img class="TED"src="[https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1012880/c7617ae255d929f6703517f47be6726d69e974ed.png](https://static.wikia.nocookie.net/60-seconds/images/2/2f/Ted_out.jpeg/revision/latest/smart/width/250/height/250?cb=20180622073656&path-prefix=ru)">
+            <img class="TED"src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1012880/c7617ae255d929f6703517f47be6726d69e974ed.png">
             <img class="DOLORES"src="https://media.tenor.com/ADauynO7IfMAAAAi/dolores-delores.gif">
             <img class="MJ" src="https://media.tenor.com/Max2gGkkQbsAAAAi/rage-angry.gif">
             <img class="TIM" src="https://media.tenor.com/hPbL02SuOv4AAAAi/lol-evil-laugh.gif">
